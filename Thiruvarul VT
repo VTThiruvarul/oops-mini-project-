@@ -11,7 +11,6 @@ class login
  static BufferedReader br = new BufferedReader(new 
 InputStreamReader(System.in)); static String 
 username="admin"; static String password="1234"; 
-[ Reg No: 711720243040] KGiSL Institute of Technology 
  String user; 
  String pass; 
  
